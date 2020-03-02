@@ -2,7 +2,7 @@
 
 Dependencies
 ------------
-User virtualenv or install globally: 
+Use virtualenv or install globally: 
 pip3 install bs4 requests
 
 
