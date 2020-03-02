@@ -14,7 +14,7 @@ Start workday at 8:00 from monday to friday:
 0 8 * * 1-5 /usr/bin/python3 b24timeman-cli start >/dev/null 2>&1
 
 End workday at 20:00 from monday to friday:
-0 20 * * 1-5 /usr/bin/python3 b24timeman-cli start >/dev/null 2>&1
+0 20 * * 1-5 /usr/bin/python3 b24timeman-cli close >/dev/null 2>&1
 
 Please, use external randomization tool for random start and end time.
 
