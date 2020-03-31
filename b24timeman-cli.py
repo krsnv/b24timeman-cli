@@ -26,7 +26,6 @@ __author__ = "Vladimir Krasnov <v@krsnv.ru>"
 import os
 import sys
 import requests
-import hashlib
 import configparser
 
 from bs4 import BeautifulSoup
