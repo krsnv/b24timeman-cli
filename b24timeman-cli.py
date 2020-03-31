@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Bitrix24 Timeman Commandline Tool
 
 Dependencies
